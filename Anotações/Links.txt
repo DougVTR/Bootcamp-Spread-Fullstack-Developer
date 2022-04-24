@@ -1,0 +1,2 @@
+* Sintaxe em Markdown para arquivos .md de criação de arquivos README e outros no GitHub
+<https://www.markdownguide.org/basic-syntax/> *
