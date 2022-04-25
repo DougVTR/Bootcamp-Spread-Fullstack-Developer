@@ -1,0 +1,24 @@
+* cat "arquivo" - Visualiza o conteúdo do arquivo;
+* cd - Mudar o diretório;
+* echo "mensagem" - Retorna o que foi escrito para o terminal;
+* echo "mensagem" | git hash-object --stdin retorna o SSH git do arquivo;
+* eval $(ssh-agent -s) - Inicia o SSH agent;
+* git add * - Adiciona arquivos e modificações na 'memória' do git e as move para
+  a staging area;
+* git commit -m "mensagem" - Informa que os arquivos estão prontos para serem enviados
+  e o que foi modificado;
+* git clone "link ssh" - Clona o repositório do GitHub para sua máquina;
+* git config --global user.email "email" - Cria um email para o repositório git;
+* git config --global user.name "nome" - Cria um nome para o repositório git;
+* git init - Cria um repositório dentro da pasta;
+* git pull origin main - Puxa os conteúdos do repositório remoto e compara com o local;
+* git push origin main - Envia o repositório local para o remoto;
+* git remote add origin "link ssh" - Informa o local que os arquivos serão enviados;
+* git remote -v - Lista os repositórios cadastrados;
+* git status - Informa o status dos arquivos do repositório e se algo precisa ser feito;
+* ls - Listar o conteúdo do diretório;
+* mkdir - Cria uma pasta;
+* mv "arquivo movido" ./ "local" - Move um arquivo para outro local;
+* openssl sha1 "arquivo" - Gera um código SSH de 40 dígitos do arquivo;
+* ssh-add "arquivo privado ssh" - Adiciona o agente ao ssh;
+* ssh-keygen -t ed25519 -C "email" - Criar chave SSH publica e privada;
