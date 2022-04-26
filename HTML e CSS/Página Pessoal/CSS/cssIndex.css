@@ -1,0 +1,52 @@
+.artigo {
+    padding-left: 1%;
+}
+
+.foto_Douglas {
+   width: 12%;
+   border: 1px solid rgb(140, 4, 4);
+   border-radius: 50%;
+   margin: auto;
+   display: block;
+}
+.topo {
+    background: rgb(59,70,81);
+    border: 1px solid rgb(140, 5, 5);
+    margin: 1%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.secao {
+    background: rgb(59, 70, 81);
+    border: 1px solid rgb(140, 5, 5);
+    margin: 1%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+body{
+    background: rgb(21, 22, 27);
+    color: rgb(250, 250, 250);
+    font-family: OpenSans,Arial,sans-serif;
+    max-width: 80%;
+    margin: auto;
+}
+
+#title, .subtitle {
+    color: rgb(250, 250, 250);
+    padding-left: 1%;
+    padding-top: 1%;
+    margin: 1px;
+    padding-left: 1%;
+}
+#title {
+    padding-bottom: 1%;
+}
+a {
+    color: rgb(250, 250, 250); 
+}
+ul{
+    list-style-type: none;
+    padding-left: 1%;
+}

@@ -1,0 +1,15 @@
+<a href=""> - Adiconar um link
+<article> - Conteúdo relevante dentro da página
+<aside> - Conteúdo relacionado ao principal da página
+<b> - Negrito
+<footer> - Rodapé da página
+<h1>-<h6> - Importância e tamanho de um titulo
+<header> - Cabeçalho de uma página ou seção
+<i> - Itálico
+<img src="" alt=""> = Adiciona uma foto e descrição
+<li> - Item de uma lista
+<o> - Lista de itens ordenada
+<p> - Cria um parágrafo.
+<section> - Seção de conteúdos
+<target ="_blank"> - Abrir link em nova guia
+<ul> - Lista de itens não ordenada

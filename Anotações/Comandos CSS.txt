@@ -1,0 +1,4 @@
+*backgroud - Altera propriedades da tela de fundo
+*color - Muda a cor do texto
+*font-size - Altera o tamanho do texto
+*font-style - Altera o estilo do texto
