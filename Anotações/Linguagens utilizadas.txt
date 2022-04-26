@@ -1,0 +1,6 @@
+* Front-end: HTML, CSS, JQuery, JavaScript, Ajax, Bootstrap, React.
+* Back-end: MySQL, Oracle, PHP, Java, node.js.
+* Mobile: Swift, Kotlin, Java, Firebase, Objective-C
+* Serviços: Jira, GitHub
+* Frameworks mais populares HTML e CSS: Bootstrap, Bulma, JS Foundation, Pure.css, Uikit
+* Frameworks mais populares JavaScript: Angular, React, Vue.js, Ember, Next.
