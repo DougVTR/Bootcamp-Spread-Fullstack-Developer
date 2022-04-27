@@ -2,9 +2,14 @@
     padding-left: 1%;
 }
 
+.emprego2 {
+    padding-left: 1%;
+    margin-top: 3%;
+}
+
 .foto_Douglas {
    width: 12%;
-   border: 1px solid rgb(140, 4, 4);
+   border: 3px solid #ef4226;
    border-radius: 50%;
    margin: auto;
    margin-top: 1%;
@@ -12,7 +17,7 @@
 }
 .topo {
     background: rgb(59,70,81);
-    border: 1px solid rgb(140, 5, 5);
+    border: 1px solid #ef4226;
     margin: 1%;
     border-radius: 10px;
     text-align: center;
@@ -20,18 +25,34 @@
 
 .secao {
     background: rgb(59, 70, 81);
-    border: 1px solid rgb(140, 5, 5);
+    border: 1px solid #ef4226;
     margin: 1%;
     border-radius: 10px;
     text-align: center;
 }
 
 body{
+    margin: 0%;
     background: rgb(21, 22, 27);
     color: rgb(250, 250, 250);
     font-family: OpenSans,Arial,sans-serif;
-    max-width: 80%;
+   
+}
+
+.principal {
     margin: auto;
+    max-width: 77%;
+}
+.formulario {
+    background-color: rgb(29, 30, 37);
+    margin-top: 3%;
+    border-top: 1px solid black;
+    padding-bottom: 2%;
+    
+}
+
+.end {
+    margin-left: 1%;
 }
 
 #title, .subtitle {
@@ -50,4 +71,25 @@ a {
 ul{
     list-style-type: none;
     padding-left: 1%;
+    margin-top: 0.5%;
+}
+p {
+margin: 0.5%;
+}
+
+.nome, .email {
+    margin-bottom: 0.4%;
+    width: 15%;
+    max-width: 15%;
+}
+.arquivo {
+    margin-bottom: 0.4%;
+}
+.comentario {
+    max-width: 100%;
+    width: 30%;
+    word-wrap: break-word;
+    max-height: 150px;
+    height: 120px;
+    
 }
