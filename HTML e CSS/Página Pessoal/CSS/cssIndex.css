@@ -1,24 +1,24 @@
 .artigo {
-    padding-left: 1%;
+    padding-left: 10px;
 }
 
 .emprego2 {
-    padding-left: 1%;
-    margin-top: 3%;
+    padding-left: 10px;
+    margin-top: 30px;
 }
 
 .foto_Douglas {
-   width: 12%;
+   width: 140px;
    border: 3px solid #ef4226;
    border-radius: 50%;
    margin: auto;
-   margin-top: 1%;
-   display: block;
+   margin-top: 10px;
+   display: flex;
 }
 .topo {
     background: rgb(59,70,81);
     border: 1px solid #ef4226;
-    margin: 1%;
+    margin: 10px;
     border-radius: 10px;
     text-align: center;
 }
@@ -26,70 +26,70 @@
 .secao {
     background: rgb(59, 70, 81);
     border: 1px solid #ef4226;
-    margin: 1%;
+    margin: 10px;
     border-radius: 10px;
     text-align: center;
 }
 
 body{
-    margin: 0%;
+    margin: 0;
     background: rgb(21, 22, 27);
     color: rgb(250, 250, 250);
-    font-family: OpenSans,Arial,sans-serif;
+    font-family: 'OpenSans',Arial,sans-serif;
    
 }
 
 .principal {
     margin: auto;
-    max-width: 77%;
+    max-width: 1100px;
 }
 .formulario {
     background-color: rgb(29, 30, 37);
-    margin-top: 3%;
+    margin-top: 30px;
     border-top: 1px solid black;
-    padding-bottom: 2%;
+    padding-bottom: 20px;
     
 }
 
 .end {
-    margin-left: 1%;
+    margin-left: 10px;
 }
 
 #title, .subtitle {
     color: rgb(250, 250, 250);
-    padding-left: 1%;
-    padding-top: 1%;
+    padding-left: 10px;
+    padding-top: 10px;
     margin: 1px;
-    padding-left: 1%;
+    padding-left: 10px;
 }
 #title {
-    padding-bottom: 1%;
+    padding-bottom: 10px;
 }
 a {
     color: rgb(250, 250, 250); 
 }
 ul{
     list-style-type: none;
-    padding-left: 1%;
-    margin-top: 0.5%;
+    padding-left: 10px;
+    margin-top: 5px;
 }
 p {
-margin: 0.5%;
+margin: 5px;
 }
 
 .nome, .email {
-    margin-bottom: 0.4%;
-    width: 15%;
-    max-width: 15%;
+    margin-bottom: 4px;
+    width: 150px;
+    max-width: 150px;
 }
 .arquivo {
-    margin-bottom: 0.4%;
+    margin-bottom: 4px;
 }
 .comentario {
-    max-width: 100%;
-    width: 30%;
+    max-width: 1200px;
+    width: 400px;
     word-wrap: break-word;
-    max-height: 150px;
+    max-height: 250px;
     height: 120px;
     
 }
