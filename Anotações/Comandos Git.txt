@@ -10,6 +10,7 @@
 * git clone "link ssh" - Clona o repositório do GitHub para sua máquina;
 * git config --global user.email "email" - Cria um email para o repositório git;
 * git config --global user.name "nome" - Cria um nome para o repositório git;
+* git fetch - Atualiza o repositório local com as branches que estão na nuvem.
 * git init - Cria um repositório dentro da pasta;
 * git pull origin main - Puxa os conteúdos do repositório remoto e compara com o local;
 * git push origin main - Envia o repositório local para o remoto;
