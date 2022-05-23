@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Exercícios aula 13</title>
-</head>
-<body>
-  
-  <script>
-  const nome = prompt('Digite seu nome completo:');
+const nome = prompt('Digite seu nome completo:');
   
   document.body.innerHTML += `Seu nome tem ${nome.length} letras <br />`;
   document.body.innerHTML += `A segunda letra do seu nome é: ${nome[1]}<br />`;
@@ -19,6 +8,3 @@
   document.body.innerHTML += `As palavras do seu nome são: ${nome.split(' ')}<br />`;
   document.body.innerHTML += `Seu nome com letras maiúsculas: ${nome.toUpperCase()}<br />`;
   document.body.innerHTML += `Seu nome com letras minúsculas: ${nome.toLowerCase()}<br />`;
-  </script>
-</body>
-</html>

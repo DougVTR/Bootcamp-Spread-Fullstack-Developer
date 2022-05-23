@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding-top:8% ;
+    font-size: 20px;
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+.form{
+    justify-content: center;
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    background-color: rgb(236, 236, 236);
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 4px;
+}
+.resultado{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+h1{
+    display: flex;
+   justify-content: center;
+}
+p{
+    margin: 9px;
+}
+.resultP{
+    font-size: 16px;
+    margin:1.4px;
+}
+.btn{
+    margin-bottom: 5%;
+}
+.nomeP{
+    margin-top: 5%;
+}
