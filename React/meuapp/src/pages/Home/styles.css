@@ -1,0 +1,27 @@
+.app{
+display: flex;
+justify-content: center ;
+align-items: center;
+justify-items: center;
+flex-direction: column;
+width: 100vw;
+height: 100vh;
+font-size: 24px;
+}
+#nome{
+    width: 25rem;
+    height: 3rem;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    font-size: 14px;
+}
+#enviar{
+    width: 10rem;
+    height: 3rem;
+    background-color: rgb(154, 197, 253);
+    border: 1px solid;
+    font-size: 16px;
+    border-radius: 4px;
+}
