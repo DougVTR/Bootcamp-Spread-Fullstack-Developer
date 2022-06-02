@@ -9,13 +9,14 @@ height: 100vh;
 font-size: 24px;
 }
 #nome{
-    width: 25rem;
-    height: 3rem;
+    width: 35rem;
+    height: 4rem;
     border: 2px solid black;
-    border-radius: 4px;
+    border-radius: 8px;
     margin-bottom: 1rem;
     margin-top: 1rem;
     font-size: 14px;
+    padding-left: 10px;
 }
 #enviar{
     width: 10rem;
@@ -24,4 +25,15 @@ font-size: 24px;
     border: 1px solid;
     font-size: 16px;
     border-radius: 4px;
+    cursor: pointer;
+    transition: filter 0.2s;
+    
+}
+#enviar:hover{
+    filter: brightness(0.9);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
