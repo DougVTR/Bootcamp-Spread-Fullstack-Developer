@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import './styles.css';
 import { Card } from '../../components/Card'
 const { useState } = React;
@@ -20,6 +20,8 @@ export function Home() {
       })
     };
     setStudents(prevState => [...prevState,newStudent]);
+    const limparNome = document.getElementById('nome');
+    limparNome.value='';
   }
   
   return (
